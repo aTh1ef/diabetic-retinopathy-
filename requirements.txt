@@ -57,7 +57,6 @@ pyasn1-modules
 pycparser
 Pygments
 python-dateutil
-pywin32
 pyzmq
 requests
 requests-oauthlib
